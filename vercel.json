@@ -1,1 +1,9 @@
-json { "version": 2, "functions": [ { "src": "api/*.js", "dest": "/" } ] }
+{
+  "version": 2,
+  "functions": [
+    {
+      "src": "api/*.js",
+      "dest": "/"
+    }
+  ]
+}
